@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ice/static/css/main.139f71ca.chunk.css",
+    "main.js": "/ice/static/js/main.595a56a2.chunk.js",
+    "main.js.map": "/ice/static/js/main.595a56a2.chunk.js.map",
+    "runtime-main.js": "/ice/static/js/runtime-main.b5e2eb2e.js",
+    "runtime-main.js.map": "/ice/static/js/runtime-main.b5e2eb2e.js.map",
+    "static/js/2.5d6cea2e.chunk.js": "/ice/static/js/2.5d6cea2e.chunk.js",
+    "static/js/2.5d6cea2e.chunk.js.map": "/ice/static/js/2.5d6cea2e.chunk.js.map",
+    "static/js/3.d85e8d22.chunk.js": "/ice/static/js/3.d85e8d22.chunk.js",
+    "static/js/3.d85e8d22.chunk.js.map": "/ice/static/js/3.d85e8d22.chunk.js.map",
+    "index.html": "/ice/index.html",
+    "static/css/main.139f71ca.chunk.css.map": "/ice/static/css/main.139f71ca.chunk.css.map",
+    "static/js/2.5d6cea2e.chunk.js.LICENSE.txt": "/ice/static/js/2.5d6cea2e.chunk.js.LICENSE.txt",
+    "static/media/cards.73046966.svg": "/ice/static/media/cards.73046966.svg",
+    "static/media/hero.935c202b.jpg": "/ice/static/media/hero.935c202b.jpg",
+    "static/media/section2.bc7336e6.jpg": "/ice/static/media/section2.bc7336e6.jpg",
+    "static/media/wallet.26017bf4.svg": "/ice/static/media/wallet.26017bf4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b5e2eb2e.js",
+    "static/js/2.5d6cea2e.chunk.js",
+    "static/css/main.139f71ca.chunk.css",
+    "static/js/main.595a56a2.chunk.js"
+  ]
+}
