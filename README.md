@@ -4,6 +4,6 @@ This is a simple practice project for a financial website built using React. The
 ## Technologies
 The project was built using the following technologies:
 
-React
-HTML
-CSS (styled with Tailwind CSS)
+* React
+* HTML
+* CSS (styled with Tailwind CSS)
